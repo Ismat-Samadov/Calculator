@@ -1,4 +1,3 @@
-```markdown
 # Calculator Web App
 
 This is a simple calculator web app built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -49,4 +48,3 @@ Contributions are welcome! If you have any improvements or bug fixes, feel free 
 3. Commit your changes: `git commit -am 'Add my feature'`
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a pull request.
-```
